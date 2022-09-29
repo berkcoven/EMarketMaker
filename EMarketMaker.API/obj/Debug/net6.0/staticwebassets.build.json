@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3UNP0v+K+68PfI8hnSAi5Mum6OAjr0Ugo0c48z9mNAc=",
+  "Source": "EMarketMaker.API",
+  "BasePath": "_content/EMarketMaker.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
